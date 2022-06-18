@@ -117,8 +117,8 @@ Same steps as flag3
     ![](Images/Privelege%20escelation%20with%20python.png)
 
     ### Exploit.php
-    ![](Images/Metasploit%20reverse%20shell%20exploit%201.png
-    ![](Images/Metasploit%20reverse%20shell%20exploit%202.png
-    ![](Images/Metasploit%20reverse%20shell%20exploit%203'.png)))
+    ![](Images/Metasploit%20reverse%20shell%20exploit%201.png)
+    ![](Images/Metasploit%20reverse%20shell%20exploit%202.png)
+    ![](Images/Metasploit%20reverse%20shell%20exploit%203'.png)
     ![](Images/HTTP%20Request%20Size%20Monitor%20alert%20test.png)
 
