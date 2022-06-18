@@ -8,10 +8,11 @@
 ### Exposed Services
 
 Nmap scan results for each machine reveal the below services and OS details:
-
-$ nmap ... # nmap -sV 192.168.1.110
+``` bash
+$ nmap -sV 192.168.1.110
+```
   ![](Images/Nmap%20open%20port%20and%20version%20scan.png)
-```![](Images/Target%201%20Machine.png)
+  ![](Images/Target%201%20Machine.png)
 
 This scan identifies the services below as potential points of entry:
 - Target 1
